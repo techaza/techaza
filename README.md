@@ -1,15 +1,11 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 
 **techaza/techaza**
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Fullstack
-- 👯 I’m looking to collaborate on projects and freelance
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ping me..mrtechaza@gmail.com
+
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
@@ -17,6 +13,11 @@
 ### Hi there 👋, my name is Vishnu B S
 #### I am Junior Developer
 ![I am Junior Developer]
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Fullstack
+- 👯 I’m looking to collaborate on projects and freelance
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ping me..mrtechaza@gmail.com
 
 Passionate to code...
 
