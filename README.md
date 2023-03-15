@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Vishnu B S
 #### I am Software Engineer 
-![I am Software Engineer ](https://techaza.github.io/VISHNU_BS/)
-
 Passionate in coding on different technologies..
 
 Skills: DART / FLUTTER / JAVA / HTML / CSS / GIT / VS-CODE / ANDROID STUDIO
