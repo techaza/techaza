@@ -10,7 +10,7 @@ Skills: DART / FLUTTER / JAVA / HTML / CSS / GIT / VS-CODE / ANDROID STUDIO
 - 📫 How to reach me: mrtechaza@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/techaza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mrtechaza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.techaza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://techaza.github.io/VISHNU_BS/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/techaza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrtechaza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.techaza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://techaza.github.io/VISHNU_BS/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
@@ -23,7 +23,5 @@ Skills: DART / FLUTTER / JAVA / HTML / CSS / GIT / VS-CODE / ANDROID STUDIO
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techaza)  
 
 ![GitHub metrics](https://metrics.lecoq.io/techaza)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=techaza)  
 
 ![Profile views](https://gpvc.arturio.dev/techaza)  
