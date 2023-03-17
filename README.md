@@ -21,8 +21,8 @@ Skills: DART / FLUTTER / JAVA / HTML / CSS / GIT / VS-CODE / ANDROID STUDIO
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=techaza&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techaza)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techaza)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/techaza)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/techaza)   -->
 
 ![Profile views](https://gpvc.arturio.dev/techaza)  
