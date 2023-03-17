@@ -1,3 +1,4 @@
+<img src='assets/text.gif' alt='github' height='40'>
 ### Hi there 👋, my name is Vishnu B S
 #### I am Software Engineer 
 Passionate in coding on different technologies..
